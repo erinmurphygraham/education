@@ -10,5 +10,5 @@ University of California, Berkeley
 Berkeley, CA 94720-1670
 USA
 
-**Office:** 5621 Tolman Hall
+**Office:** 5621 Tolman Hall    
 **Email:** [emurphy "at" berkeley.edu](mailto:emurphy@.berkeley.edu)  
