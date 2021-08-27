@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
+<!---
 I am currently engaged in three extramurally funded research projects. Several of these projects, as with some of my past work, including the research summarized in my [book](http://www.amazon.com/dp/082651829X), intersect with the _Sistema de Aprendizaje Tutorial_ program ("Tutorial Learning System" or SAT) . SAT is an innovative secondary education program developed by the Colombian non-governmental organization [FUNDAEC](http://www.fundaec.org/en/) in the early 1980s. SAT now operates in several countries across Latin America. 
 
 ### Effective Secondary Teaching in Rural Honduran Schools    
@@ -40,3 +41,5 @@ In Honduras, these values and opportunities are particularly important because o
 1. Anderson, Terry and Julie Shattuck. (2012). "Design-based research: a decade of progress in education research?" _Educational Researcher_ 41 (1): 16 - 25.
 2. Heckman, James J. and Tim Kautz. (2014). “Fostering and measuring skills: interventions that improve character and cognition,” _The Myth of Achievement Tests: The GED and the Role of Character in American Life_: 341 - 430 (J. Heckman, J.E. Humphries & T. Kautz, Eds). Chicago: University of Chicago Press.
 3. Nussbaum, Martha (2011). _Creating Capabilities: The Human Development Approach._ Cambridge, MA: The Belknap Press of Harvard University Press.
+
+-->
